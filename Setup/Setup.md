@@ -185,5 +185,8 @@ done < data.txt
 
 Answer the following questions in your `write-up`:
 1. How many slurm job will be submitted?
+    3 because #SBATCH --array=0-1
 2. What is the purpose of the `if` statement?
+    it divides the lines of data.txt among the array jobs so that task 0 processes lines 0,3,6,9. Task 1 processes lines 1,4,7,10, and so on 
 3. What is the expected output in each `*.out` file?
+    it adds an id to each line of the data file
