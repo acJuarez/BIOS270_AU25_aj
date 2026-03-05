@@ -85,8 +85,10 @@ sbatch create_bacteria_db.sh
 
 While the job is running, answer the following questions:
 
-- Examine `create_bacteria_db.sh`, how many tables will be created in the database?  
+- Examine `create_bacteria_db.sh`, how many tables will be created in the database?
+    this will depend on each of the python scripts run but its safe to assume it will be one table per script  
 - In the `insert_gff_table.py` script you submitted, explain the logic of using `try` and `except`. Why is this necessary?
+    I think this is needed to manage error handling incase df.tosql fails when forming the database, it also includes a time delay incae the error was time handling. The while loop and maxretries limits the amount of times this script will run 
 
 ```python
 while try_num < max_retries:
@@ -120,6 +122,8 @@ Record the runtime. You may stop the session early if it takes too long and only
 
 Then, uncomment `db.index_record_ids()` in `query_bacteria_db.py` and note how the runtime changes.  
 Why do you think this is the case?
+    First run time is awful with 10 record ids taking about 3 minutes 
+    uncommenting drops the runtime because without an index the query a full table scan is conducted but with an index, ids can be looked up which is much faster 
 
 ---
 
@@ -129,6 +133,8 @@ The dataset you are handling is relatively small. However, for larger datasets o
 
 Examine the `upload_bigquery.py` script.  
 Explain the role of `CHUNK_SIZE` and why it is necessary:
+    Chunk size is important because it breaks the larger query into manable bites of data 
+    Larger chunks result in fewer BigQuery load jobs and fewer SQL queries which should be faster 
 
 ```python
 df = pd.read_sql_query(
