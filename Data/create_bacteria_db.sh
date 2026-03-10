@@ -7,7 +7,11 @@
 #SBATCH --mem=4G
 #SBATCH --time=04:00:00
 
+# Load apptainer
+module load apptainer
+
 DATABASE="bacteria.db"
-$RUN python insert_gff_table.py --database_path $DATABASE
-$RUN python insert_protein_cluster_table.py --database_path $DATABASE
-$RUN python insert_metadata_table.py --database_path $DATABASE
+
+apptainer exec --bind ~/scratch/repos/BIOS270_AU25_aj/Data:/data --bind /farmshare/home/classes/bios/270/data:/shared_data ~/scratch/repos/BIOS270_AU25_aj/Environment/bioinformatics_latest.sif python /data/insert_gff_table.py --database_path $DATABASE
+apptainer exec --bind ~/scratch/repos/BIOS270_AU25_aj/Data:/data --bind /farmshare/home/classes/bios/270/data:/shared_data ~/scratch/repos/BIOS270_AU25_aj/Environment/bioinformatics_latest.sif python /data/insert_protein_cluster_table.py --database_path $DATABASE
+apptainer exec --bind ~/scratch/repos/BIOS270_AU25_aj/Data:/data --bind /farmshare/home/classes/bios/270/data:/shared_data ~/scratch/repos/BIOS270_AU25_aj/Environment/bioinformatics_latest.sif python /data/insert_metadata_table.py --database_path $DATABASE

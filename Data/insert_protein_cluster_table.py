@@ -24,7 +24,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--database_path", type=str, required=True)
     parser.add_argument("--cluster_table_name", type=str, default="protein_cluster")
-    parser.add_argument("--cluster_path", type=str, default="/farmshare/home/classes/bios/270/data/bacteria_supp/clusters_mmseqclust_id03_c08.tsv")
+    parser.add_argument("--cluster_path", type=str, default="/shared_data/bacteria_supp/clusters_mmseqclust_id03_c08.tsv")
     parser.add_argument("--max_retries", type=int, default=20)
     args = parser.parse_args()
     return args

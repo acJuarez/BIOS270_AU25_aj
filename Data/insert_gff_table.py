@@ -27,7 +27,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--database_path", type=str, required=True)
     parser.add_argument("--gff_table_name", type=str, default="gff")
-    parser.add_argument("--gff_path", type=str, default="/farmshare/home/classes/bios/270/data/bacteria/*/*gff")
+    parser.add_argument("--gff_path", type=str, default="/shared_data/bacteria/*/*gff")
     parser.add_argument("--max_retries", type=int, default=20)
     args = parser.parse_args()
     return args
@@ -71,6 +71,7 @@ def insert_data(conn, df, args):
     while try_num < max_retries:
         try_num +=1
         try:
+            logging.info(f"DataFrame shape before insertion: {df.shape}")
             df.to_sql(gff_table_name, conn, if_exists="append", index=False)
             break
         except (pd.errors.DatabaseError, sqlite3.OperationalError) as e:
@@ -101,7 +102,13 @@ def main():
         insert_data(conn, gff2df(file), args)
         logging.info(f"Finished inserting {assembly_id}")
 
+
+    cursor = conn.cursor()
+    cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
+    tables = cursor.fetchall()
+    print("Tables in the database:", tables)  # This should list 'gff'
     conn.close()
+
 
 if __name__ == "__main__":
     main()
