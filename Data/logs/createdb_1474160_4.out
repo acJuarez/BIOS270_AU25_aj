@@ -1,0 +1,790 @@
+2026-03-04 05:38:55,513 [INFO] SLURM_ARRAY_TASK_ID: 4
+2026-03-04 05:38:55,513 [INFO] SLURM_ARRAY_TASK_COUNT: 5
+2026-03-04 05:38:57,131 [INFO] Total number of assemblies: 1958
+2026-03-04 05:38:57,610 [INFO] DataFrame shape before insertion: (4489, 10)
+2026-03-04 05:38:57,653 [INFO] Finished inserting GCF_040256395.1
+2026-03-04 05:38:58,439 [INFO] DataFrame shape before insertion: (6564, 10)
+2026-03-04 05:38:58,509 [INFO] Finished inserting GCF_024610635.1
+2026-03-04 05:38:59,296 [INFO] DataFrame shape before insertion: (7198, 10)
+2026-03-04 05:38:59,345 [INFO] Finished inserting GCA_007182875.1
+2026-03-04 05:39:00,316 [INFO] DataFrame shape before insertion: (8381, 10)
+2026-03-04 05:39:00,403 [INFO] Finished inserting GCF_020542785.1
+2026-03-04 05:39:00,826 [INFO] DataFrame shape before insertion: (4195, 10)
+2026-03-04 05:39:00,865 [INFO] Finished inserting GCF_045037995.1
+2026-03-04 05:39:01,201 [INFO] DataFrame shape before insertion: (3213, 10)
+2026-03-04 05:39:01,234 [INFO] Finished inserting GCF_011765465.1
+2026-03-04 05:39:02,118 [INFO] DataFrame shape before insertion: (7345, 10)
+2026-03-04 05:39:02,175 [INFO] Finished inserting GCF_022354505.1
+2026-03-04 05:39:02,440 [INFO] DataFrame shape before insertion: (2752, 10)
+2026-03-04 05:39:02,471 [INFO] Finished inserting GCF_964065165.1
+2026-03-04 05:39:03,625 [INFO] DataFrame shape before insertion: (9711, 10)
+2026-03-04 05:39:03,697 [INFO] Finished inserting GCF_035918295.1
+2026-03-04 05:39:04,045 [INFO] DataFrame shape before insertion: (3621, 10)
+2026-03-04 05:39:04,095 [INFO] Finished inserting GCF_019565455.1
+2026-03-04 05:39:04,498 [INFO] DataFrame shape before insertion: (3937, 10)
+2026-03-04 05:39:04,536 [INFO] Finished inserting GCF_027625435.1
+2026-03-04 05:39:05,135 [INFO] DataFrame shape before insertion: (5604, 10)
+2026-03-04 05:39:05,180 [INFO] Finished inserting GCF_028885605.1
+2026-03-04 05:39:05,935 [INFO] DataFrame shape before insertion: (6256, 10)
+2026-03-04 05:39:05,981 [INFO] Finished inserting GCF_029201665.1
+2026-03-04 05:39:06,409 [INFO] DataFrame shape before insertion: (4143, 10)
+2026-03-04 05:39:06,442 [INFO] Finished inserting GCA_023213235.1
+2026-03-04 05:39:07,100 [INFO] DataFrame shape before insertion: (5750, 10)
+2026-03-04 05:39:07,146 [INFO] Finished inserting GCF_022701035.1
+2026-03-04 05:39:07,670 [INFO] DataFrame shape before insertion: (4984, 10)
+2026-03-04 05:39:07,714 [INFO] Finished inserting GCF_030505355.1
+2026-03-04 05:39:08,075 [INFO] DataFrame shape before insertion: (3259, 10)
+2026-03-04 05:39:08,107 [INFO] Finished inserting GCF_919654025.1
+2026-03-04 05:39:09,064 [INFO] DataFrame shape before insertion: (7898, 10)
+2026-03-04 05:39:09,120 [INFO] Finished inserting GCF_024381035.1
+2026-03-04 05:39:10,150 [INFO] DataFrame shape before insertion: (8497, 10)
+2026-03-04 05:39:10,258 [INFO] Finished inserting GCF_036287475.1
+2026-03-04 05:39:10,722 [INFO] DataFrame shape before insertion: (4327, 10)
+2026-03-04 05:39:10,812 [INFO] Finished inserting GCA_030644725.1
+2026-03-04 05:39:11,421 [INFO] DataFrame shape before insertion: (5474, 10)
+2026-03-04 05:39:11,464 [INFO] Finished inserting GCF_010646885.2
+2026-03-04 05:39:11,797 [INFO] DataFrame shape before insertion: (3450, 10)
+2026-03-04 05:39:11,856 [INFO] Finished inserting GCF_029909775.1
+2026-03-04 05:39:12,401 [INFO] DataFrame shape before insertion: (5662, 10)
+2026-03-04 05:39:12,443 [INFO] Finished inserting GCA_013127575.1
+2026-03-04 05:39:13,345 [INFO] DataFrame shape before insertion: (8050, 10)
+2026-03-04 05:39:13,400 [INFO] Finished inserting GCF_045070545.1
+2026-03-04 05:39:14,049 [INFO] DataFrame shape before insertion: (6004, 10)
+2026-03-04 05:39:14,119 [INFO] Finished inserting GCF_044499405.1
+2026-03-04 05:39:14,862 [INFO] DataFrame shape before insertion: (6384, 10)
+2026-03-04 05:39:14,911 [INFO] Finished inserting GCA_036584005.1
+2026-03-04 05:39:15,353 [INFO] DataFrame shape before insertion: (4034, 10)
+2026-03-04 05:39:15,391 [INFO] Finished inserting GCF_025244985.1
+2026-03-04 05:39:15,662 [INFO] DataFrame shape before insertion: (2871, 10)
+2026-03-04 05:39:15,763 [INFO] Finished inserting GCF_013348725.1
+2026-03-04 05:39:16,099 [INFO] DataFrame shape before insertion: (2998, 10)
+2026-03-04 05:39:16,134 [INFO] Finished inserting GCF_030623315.1
+2026-03-04 05:39:16,600 [INFO] DataFrame shape before insertion: (4126, 10)
+2026-03-04 05:39:16,636 [INFO] Finished inserting GCF_030297115.1
+2026-03-04 05:39:16,825 [INFO] DataFrame shape before insertion: (1746, 10)
+2026-03-04 05:39:16,849 [INFO] Finished inserting GCF_916098255.1
+2026-03-04 05:39:17,366 [INFO] DataFrame shape before insertion: (4808, 10)
+2026-03-04 05:39:17,458 [INFO] Finished inserting GCF_009388185.1
+2026-03-04 05:39:17,755 [INFO] DataFrame shape before insertion: (2737, 10)
+2026-03-04 05:39:17,786 [INFO] Finished inserting GCA_029320975.1
+2026-03-04 05:39:18,734 [INFO] DataFrame shape before insertion: (7940, 10)
+2026-03-04 05:39:18,789 [INFO] Finished inserting GCF_006094315.1
+2026-03-04 05:39:19,368 [INFO] DataFrame shape before insertion: (5443, 10)
+2026-03-04 05:39:19,417 [INFO] Finished inserting GCF_036549575.1
+2026-03-04 05:39:19,798 [INFO] DataFrame shape before insertion: (3472, 10)
+2026-03-04 05:39:19,840 [INFO] Finished inserting GCF_046254905.1
+2026-03-04 05:39:20,769 [INFO] DataFrame shape before insertion: (8254, 10)
+2026-03-04 05:39:20,826 [INFO] Finished inserting GCF_006516935.1
+2026-03-04 05:39:21,255 [INFO] DataFrame shape before insertion: (3967, 10)
+2026-03-04 05:39:21,294 [INFO] Finished inserting GCF_026967555.1
+2026-03-04 05:39:21,717 [INFO] DataFrame shape before insertion: (4186, 10)
+2026-03-04 05:39:21,812 [INFO] Finished inserting GCF_030369675.1
+2026-03-04 05:39:22,404 [INFO] DataFrame shape before insertion: (5340, 10)
+2026-03-04 05:39:22,446 [INFO] Finished inserting GCF_964033635.1
+2026-03-04 05:39:23,074 [INFO] DataFrame shape before insertion: (5650, 10)
+2026-03-04 05:39:23,231 [INFO] Finished inserting GCF_029457495.1
+2026-03-04 05:39:23,417 [INFO] DataFrame shape before insertion: (2007, 10)
+2026-03-04 05:39:23,439 [INFO] Finished inserting GCA_018399055.1
+2026-03-04 05:39:23,842 [INFO] DataFrame shape before insertion: (3730, 10)
+2026-03-04 05:39:23,949 [INFO] Finished inserting GCF_042140245.1
+2026-03-04 05:39:24,563 [INFO] DataFrame shape before insertion: (5701, 10)
+2026-03-04 05:39:24,627 [INFO] Finished inserting GCA_024758885.1
+2026-03-04 05:39:24,930 [INFO] DataFrame shape before insertion: (3211, 10)
+2026-03-04 05:39:24,985 [INFO] Finished inserting GCF_030157885.1
+2026-03-04 05:39:25,199 [INFO] DataFrame shape before insertion: (1933, 10)
+2026-03-04 05:39:25,227 [INFO] Finished inserting GCF_027557675.1
+2026-03-04 05:39:25,753 [INFO] DataFrame shape before insertion: (4918, 10)
+2026-03-04 05:39:25,794 [INFO] Finished inserting GCF_030122845.1
+2026-03-04 05:39:26,171 [INFO] DataFrame shape before insertion: (3474, 10)
+2026-03-04 05:39:26,207 [INFO] Finished inserting GCF_021165935.1
+2026-03-04 05:39:26,698 [INFO] DataFrame shape before insertion: (4804, 10)
+2026-03-04 05:39:26,735 [INFO] Finished inserting GCF_003994555.1
+2026-03-04 05:39:26,910 [INFO] DataFrame shape before insertion: (1719, 10)
+2026-03-04 05:39:26,931 [INFO] Finished inserting GCF_044054575.1
+2026-03-04 05:39:27,598 [INFO] DataFrame shape before insertion: (6192, 10)
+2026-03-04 05:39:27,672 [INFO] Finished inserting GCF_042693265.1
+2026-03-04 05:39:28,271 [INFO] DataFrame shape before insertion: (5137, 10)
+2026-03-04 05:39:28,408 [INFO] Finished inserting GCF_029625495.1
+2026-03-04 05:39:29,224 [INFO] DataFrame shape before insertion: (7166, 10)
+2026-03-04 05:39:29,276 [INFO] Finished inserting GCF_045571495.1
+2026-03-04 05:39:29,566 [INFO] DataFrame shape before insertion: (2878, 10)
+2026-03-04 05:39:29,598 [INFO] Finished inserting GCF_016455205.1
+2026-03-04 05:39:30,045 [INFO] DataFrame shape before insertion: (4298, 10)
+2026-03-04 05:39:30,083 [INFO] Finished inserting GCF_030503835.1
+2026-03-04 05:39:30,622 [INFO] DataFrame shape before insertion: (4963, 10)
+2026-03-04 05:39:30,662 [INFO] Finished inserting GCA_029168575.1
+2026-03-04 05:39:30,948 [INFO] DataFrame shape before insertion: (2899, 10)
+2026-03-04 05:39:30,977 [INFO] Finished inserting GCF_037290055.1
+2026-03-04 05:39:31,355 [INFO] DataFrame shape before insertion: (3637, 10)
+2026-03-04 05:39:31,389 [INFO] Finished inserting GCF_043995075.1
+2026-03-04 05:39:32,046 [INFO] DataFrame shape before insertion: (5970, 10)
+2026-03-04 05:39:32,131 [INFO] Finished inserting GCF_020637575.2
+2026-03-04 05:39:32,886 [INFO] DataFrame shape before insertion: (6808, 10)
+2026-03-04 05:39:32,941 [INFO] Finished inserting GCA_038024475.1
+2026-03-04 05:39:33,193 [INFO] DataFrame shape before insertion: (2491, 10)
+2026-03-04 05:39:33,239 [INFO] Finished inserting GCF_046097475.1
+2026-03-04 05:39:34,121 [INFO] DataFrame shape before insertion: (7646, 10)
+2026-03-04 05:39:34,173 [INFO] Finished inserting GCF_014621695.1
+2026-03-04 05:39:35,091 [INFO] DataFrame shape before insertion: (7438, 10)
+2026-03-04 05:39:35,146 [INFO] Finished inserting GCF_041200145.1
+2026-03-04 05:39:35,506 [INFO] DataFrame shape before insertion: (3770, 10)
+2026-03-04 05:39:35,542 [INFO] Finished inserting GCF_028872215.1
+2026-03-04 05:39:36,319 [INFO] DataFrame shape before insertion: (6516, 10)
+2026-03-04 05:39:36,368 [INFO] Finished inserting GCF_046058935.1
+2026-03-04 05:39:36,903 [INFO] DataFrame shape before insertion: (4982, 10)
+2026-03-04 05:39:36,943 [INFO] Finished inserting GCF_030064445.1
+2026-03-04 05:39:37,223 [INFO] DataFrame shape before insertion: (2378, 10)
+2026-03-04 05:39:37,254 [INFO] Finished inserting GCF_029011725.1
+2026-03-04 05:39:37,727 [INFO] DataFrame shape before insertion: (4257, 10)
+2026-03-04 05:39:37,765 [INFO] Finished inserting GCF_020520245.1
+2026-03-04 05:39:38,988 [INFO] DataFrame shape before insertion: (8436, 10)
+2026-03-04 05:39:39,078 [INFO] Finished inserting GCF_041228765.1
+2026-03-04 05:39:39,817 [INFO] DataFrame shape before insertion: (6789, 10)
+2026-03-04 05:39:39,868 [INFO] Finished inserting GCF_022759525.1
+2026-03-04 05:39:40,411 [INFO] DataFrame shape before insertion: (4431, 10)
+2026-03-04 05:39:40,449 [INFO] Finished inserting GCF_044905075.1
+2026-03-04 05:39:40,857 [INFO] DataFrame shape before insertion: (3664, 10)
+2026-03-04 05:39:40,892 [INFO] Finished inserting GCF_034555965.2
+2026-03-04 05:39:41,158 [INFO] DataFrame shape before insertion: (2703, 10)
+2026-03-04 05:39:41,189 [INFO] Finished inserting GCA_042434925.1
+2026-03-04 05:39:41,799 [INFO] DataFrame shape before insertion: (5276, 10)
+2026-03-04 05:39:41,957 [INFO] Finished inserting GCF_042700715.1
+2026-03-04 05:39:42,357 [INFO] DataFrame shape before insertion: (3543, 10)
+2026-03-04 05:39:42,394 [INFO] Finished inserting GCA_035609365.1
+2026-03-04 05:39:42,723 [INFO] DataFrame shape before insertion: (3107, 10)
+2026-03-04 05:39:42,756 [INFO] Finished inserting GCF_046254925.1
+2026-03-04 05:39:43,384 [INFO] DataFrame shape before insertion: (5384, 10)
+2026-03-04 05:39:43,428 [INFO] Finished inserting GCF_030323065.1
+2026-03-04 05:39:44,153 [INFO] DataFrame shape before insertion: (6812, 10)
+2026-03-04 05:39:44,232 [INFO] Finished inserting GCF_029215915.1
+2026-03-04 05:39:44,542 [INFO] DataFrame shape before insertion: (3264, 10)
+2026-03-04 05:39:44,580 [INFO] Finished inserting GCA_016699715.1
+2026-03-04 05:39:45,483 [INFO] DataFrame shape before insertion: (7802, 10)
+2026-03-04 05:39:45,539 [INFO] Finished inserting GCF_033406955.1
+2026-03-04 05:39:46,018 [INFO] DataFrame shape before insertion: (4639, 10)
+2026-03-04 05:39:46,059 [INFO] Finished inserting GCF_038396325.1
+2026-03-04 05:39:47,143 [INFO] DataFrame shape before insertion: (8916, 10)
+2026-03-04 05:39:47,275 [INFO] Finished inserting GCF_022385335.1
+2026-03-04 05:39:47,613 [INFO] DataFrame shape before insertion: (3626, 10)
+2026-03-04 05:39:47,645 [INFO] Finished inserting GCA_032620915.1
+2026-03-04 05:39:48,172 [INFO] DataFrame shape before insertion: (4754, 10)
+2026-03-04 05:39:48,282 [INFO] Finished inserting GCA_029321015.1
+2026-03-04 05:39:48,507 [INFO] DataFrame shape before insertion: (2159, 10)
+2026-03-04 05:39:48,534 [INFO] Finished inserting GCF_029674565.1
+2026-03-04 05:39:48,657 [INFO] DataFrame shape before insertion: (1125, 10)
+2026-03-04 05:39:48,681 [INFO] Finished inserting GCA_028752135.1
+2026-03-04 05:39:49,211 [INFO] DataFrame shape before insertion: (5035, 10)
+2026-03-04 05:39:49,255 [INFO] Finished inserting GCF_000525615.2
+2026-03-04 05:39:49,449 [INFO] DataFrame shape before insertion: (1991, 10)
+2026-03-04 05:39:49,479 [INFO] Finished inserting GCA_029269845.2
+2026-03-04 05:39:49,821 [INFO] DataFrame shape before insertion: (3297, 10)
+2026-03-04 05:39:49,880 [INFO] Finished inserting GCA_041879355.1
+2026-03-04 05:39:50,400 [INFO] DataFrame shape before insertion: (5070, 10)
+2026-03-04 05:39:50,443 [INFO] Finished inserting GCF_020524355.2
+2026-03-04 05:39:50,702 [INFO] DataFrame shape before insertion: (2146, 10)
+2026-03-04 05:39:50,761 [INFO] Finished inserting GCF_028898865.1
+2026-03-04 05:39:51,328 [INFO] DataFrame shape before insertion: (5285, 10)
+2026-03-04 05:39:51,401 [INFO] Finished inserting GCF_020151015.1
+2026-03-04 05:39:52,021 [INFO] DataFrame shape before insertion: (5519, 10)
+2026-03-04 05:39:52,066 [INFO] Finished inserting GCF_026170095.1
+2026-03-04 05:39:52,496 [INFO] DataFrame shape before insertion: (4351, 10)
+2026-03-04 05:39:52,536 [INFO] Finished inserting GCA_024300805.1
+2026-03-04 05:39:52,817 [INFO] DataFrame shape before insertion: (2476, 10)
+2026-03-04 05:39:52,873 [INFO] Finished inserting GCF_030252165.1
+2026-03-04 05:39:53,192 [INFO] DataFrame shape before insertion: (3543, 10)
+2026-03-04 05:39:53,241 [INFO] Finished inserting GCA_023213215.1
+2026-03-04 05:39:53,956 [INFO] DataFrame shape before insertion: (6030, 10)
+2026-03-04 05:39:54,002 [INFO] Finished inserting GCF_023824055.1
+2026-03-04 05:39:54,233 [INFO] DataFrame shape before insertion: (2218, 10)
+2026-03-04 05:39:54,263 [INFO] Finished inserting GCF_041081565.1
+2026-03-04 05:39:54,502 [INFO] DataFrame shape before insertion: (2311, 10)
+2026-03-04 05:39:54,576 [INFO] Finished inserting GCF_030544585.1
+2026-03-04 05:39:54,794 [INFO] DataFrame shape before insertion: (2132, 10)
+2026-03-04 05:39:54,826 [INFO] Finished inserting GCF_041447125.1
+2026-03-04 05:39:55,491 [INFO] DataFrame shape before insertion: (5986, 10)
+2026-03-04 05:39:55,554 [INFO] Finished inserting GCF_028993595.1
+2026-03-04 05:39:56,009 [INFO] DataFrame shape before insertion: (4432, 10)
+2026-03-04 05:39:56,049 [INFO] Finished inserting GCF_042140275.1
+2026-03-04 05:39:56,804 [INFO] DataFrame shape before insertion: (6796, 10)
+2026-03-04 05:39:56,855 [INFO] Finished inserting GCA_030323305.1
+2026-03-04 05:39:57,787 [INFO] DataFrame shape before insertion: (7879, 10)
+2026-03-04 05:39:57,897 [INFO] Finished inserting GCF_033097305.1
+2026-03-04 05:39:58,922 [INFO] DataFrame shape before insertion: (8610, 10)
+2026-03-04 05:39:59,011 [INFO] Finished inserting GCF_037081825.1
+2026-03-04 05:39:59,336 [INFO] DataFrame shape before insertion: (3249, 10)
+2026-03-04 05:39:59,369 [INFO] Finished inserting GCF_045070525.1
+2026-03-04 05:39:59,827 [INFO] DataFrame shape before insertion: (4439, 10)
+2026-03-04 05:39:59,867 [INFO] Finished inserting GCF_023612075.1
+2026-03-04 05:40:00,252 [INFO] DataFrame shape before insertion: (3757, 10)
+2026-03-04 05:40:00,288 [INFO] Finished inserting GCF_030534335.1
+2026-03-04 05:40:00,619 [INFO] DataFrame shape before insertion: (2899, 10)
+2026-03-04 05:40:00,651 [INFO] Finished inserting GCF_033597815.2
+2026-03-04 05:40:00,941 [INFO] DataFrame shape before insertion: (3006, 10)
+2026-03-04 05:40:00,989 [INFO] Finished inserting GCF_018080005.1
+2026-03-04 05:40:01,381 [INFO] DataFrame shape before insertion: (3958, 10)
+2026-03-04 05:40:01,420 [INFO] Finished inserting GCA_029168355.1
+2026-03-04 05:40:01,993 [INFO] DataFrame shape before insertion: (5097, 10)
+2026-03-04 05:40:02,058 [INFO] Finished inserting GCF_023823895.1
+2026-03-04 05:40:02,508 [INFO] DataFrame shape before insertion: (4335, 10)
+2026-03-04 05:40:02,589 [INFO] Finished inserting GCF_019884785.1
+2026-03-04 05:40:02,728 [INFO] DataFrame shape before insertion: (1369, 10)
+2026-03-04 05:40:02,763 [INFO] Finished inserting GCA_016699755.1
+2026-03-04 05:40:03,225 [INFO] DataFrame shape before insertion: (4403, 10)
+2026-03-04 05:40:03,262 [INFO] Finished inserting GCF_038443705.2
+2026-03-04 05:40:03,786 [INFO] DataFrame shape before insertion: (4427, 10)
+2026-03-04 05:40:03,825 [INFO] Finished inserting GCF_015243575.1
+2026-03-04 05:40:04,045 [INFO] DataFrame shape before insertion: (1981, 10)
+2026-03-04 05:40:04,073 [INFO] Finished inserting GCF_020883435.1
+2026-03-04 05:40:04,394 [INFO] DataFrame shape before insertion: (3223, 10)
+2026-03-04 05:40:04,429 [INFO] Finished inserting GCF_014884525.1
+2026-03-04 05:40:04,849 [INFO] DataFrame shape before insertion: (4132, 10)
+2026-03-04 05:40:04,883 [INFO] Finished inserting GCA_045346125.1
+2026-03-04 05:40:05,275 [INFO] DataFrame shape before insertion: (3838, 10)
+2026-03-04 05:40:05,363 [INFO] Finished inserting GCF_019797765.1
+2026-03-04 05:40:05,691 [INFO] DataFrame shape before insertion: (3007, 10)
+2026-03-04 05:40:05,724 [INFO] Finished inserting GCF_019774515.1
+2026-03-04 05:40:06,246 [INFO] DataFrame shape before insertion: (4964, 10)
+2026-03-04 05:40:06,286 [INFO] Finished inserting GCF_004006175.1
+2026-03-04 05:40:06,686 [INFO] DataFrame shape before insertion: (3933, 10)
+2026-03-04 05:40:06,745 [INFO] Finished inserting GCF_030122745.1
+2026-03-04 05:40:07,079 [INFO] DataFrame shape before insertion: (3363, 10)
+2026-03-04 05:40:07,112 [INFO] Finished inserting GCF_030296635.1
+2026-03-04 05:40:07,912 [INFO] DataFrame shape before insertion: (6611, 10)
+2026-03-04 05:40:07,981 [INFO] Finished inserting GCF_014189535.1
+2026-03-04 05:40:08,523 [INFO] DataFrame shape before insertion: (4967, 10)
+2026-03-04 05:40:08,565 [INFO] Finished inserting GCF_021117075.1
+2026-03-04 05:40:09,007 [INFO] DataFrame shape before insertion: (4190, 10)
+2026-03-04 05:40:09,067 [INFO] Finished inserting GCF_034371605.1
+2026-03-04 05:40:09,484 [INFO] DataFrame shape before insertion: (4111, 10)
+2026-03-04 05:40:09,634 [INFO] Finished inserting GCF_040833975.1
+2026-03-04 05:40:10,132 [INFO] DataFrame shape before insertion: (4458, 10)
+2026-03-04 05:40:10,176 [INFO] Finished inserting GCF_046245175.1
+2026-03-04 05:40:10,601 [INFO] DataFrame shape before insertion: (3858, 10)
+2026-03-04 05:40:10,641 [INFO] Finished inserting GCF_025787225.1
+2026-03-04 05:40:10,852 [INFO] DataFrame shape before insertion: (1908, 10)
+2026-03-04 05:40:10,885 [INFO] Finished inserting GCF_022213385.1
+2026-03-04 05:40:11,127 [INFO] DataFrame shape before insertion: (2354, 10)
+2026-03-04 05:40:11,157 [INFO] Finished inserting GCF_026153635.1
+2026-03-04 05:40:11,908 [INFO] DataFrame shape before insertion: (6906, 10)
+2026-03-04 05:40:12,017 [INFO] Finished inserting GCF_024734895.1
+2026-03-04 05:40:12,642 [INFO] DataFrame shape before insertion: (5040, 10)
+2026-03-04 05:40:12,681 [INFO] Finished inserting GCF_040970185.1
+2026-03-04 05:40:12,995 [INFO] DataFrame shape before insertion: (2798, 10)
+2026-03-04 05:40:13,027 [INFO] Finished inserting GCF_024362345.1
+2026-03-04 05:40:13,842 [INFO] DataFrame shape before insertion: (7235, 10)
+2026-03-04 05:40:13,894 [INFO] Finished inserting GCF_033109485.1
+2026-03-04 05:40:14,704 [INFO] DataFrame shape before insertion: (6892, 10)
+2026-03-04 05:40:14,822 [INFO] Finished inserting GCF_024134545.1
+2026-03-04 05:40:15,140 [INFO] DataFrame shape before insertion: (3264, 10)
+2026-03-04 05:40:15,174 [INFO] Finished inserting GCF_030219945.1
+2026-03-04 05:40:15,775 [INFO] DataFrame shape before insertion: (5468, 10)
+2026-03-04 05:40:15,823 [INFO] Finished inserting GCF_013306495.1
+2026-03-04 05:40:16,057 [INFO] DataFrame shape before insertion: (2482, 10)
+2026-03-04 05:40:16,132 [INFO] Finished inserting GCA_042140035.1
+2026-03-04 05:40:16,644 [INFO] DataFrame shape before insertion: (4286, 10)
+2026-03-04 05:40:16,723 [INFO] Finished inserting GCF_037890695.1
+2026-03-04 05:40:17,437 [INFO] DataFrame shape before insertion: (6157, 10)
+2026-03-04 05:40:17,485 [INFO] Finished inserting GCF_024918735.1
+2026-03-04 05:40:17,911 [INFO] DataFrame shape before insertion: (4012, 10)
+2026-03-04 05:40:17,949 [INFO] Finished inserting GCF_023022965.1
+2026-03-04 05:40:18,862 [INFO] DataFrame shape before insertion: (7921, 10)
+2026-03-04 05:40:18,918 [INFO] Finished inserting GCF_035658475.1
+2026-03-04 05:40:19,637 [INFO] DataFrame shape before insertion: (6533, 10)
+2026-03-04 05:40:19,685 [INFO] Finished inserting GCF_023824175.1
+2026-03-04 05:40:20,105 [INFO] DataFrame shape before insertion: (3969, 10)
+2026-03-04 05:40:20,177 [INFO] Finished inserting GCF_025723105.1
+2026-03-04 05:40:20,912 [INFO] DataFrame shape before insertion: (6152, 10)
+2026-03-04 05:40:20,955 [INFO] Finished inserting GCF_023516215.1
+2026-03-04 05:40:21,463 [INFO] DataFrame shape before insertion: (4759, 10)
+2026-03-04 05:40:21,501 [INFO] Finished inserting GCF_009707365.1
+2026-03-04 05:40:21,936 [INFO] DataFrame shape before insertion: (4167, 10)
+2026-03-04 05:40:21,970 [INFO] Finished inserting GCF_021049245.1
+2026-03-04 05:40:22,859 [INFO] DataFrame shape before insertion: (7927, 10)
+2026-03-04 05:40:22,921 [INFO] Finished inserting GCA_034636615.1
+2026-03-04 05:40:23,514 [INFO] DataFrame shape before insertion: (4991, 10)
+2026-03-04 05:40:23,582 [INFO] Finished inserting GCF_021399015.1
+2026-03-04 05:40:24,240 [INFO] DataFrame shape before insertion: (5511, 10)
+2026-03-04 05:40:24,281 [INFO] Finished inserting GCF_021869665.1
+2026-03-04 05:40:25,015 [INFO] DataFrame shape before insertion: (6500, 10)
+2026-03-04 05:40:25,057 [INFO] Finished inserting GCF_044865155.1
+2026-03-04 05:40:25,993 [INFO] DataFrame shape before insertion: (7963, 10)
+2026-03-04 05:40:26,046 [INFO] Finished inserting GCF_029910075.1
+2026-03-04 05:40:26,501 [INFO] DataFrame shape before insertion: (4471, 10)
+2026-03-04 05:40:26,539 [INFO] Finished inserting GCA_023242925.1
+2026-03-04 05:40:26,882 [INFO] DataFrame shape before insertion: (3003, 10)
+2026-03-04 05:40:26,911 [INFO] Finished inserting GCF_011047315.1
+2026-03-04 05:40:27,358 [INFO] DataFrame shape before insertion: (3750, 10)
+2026-03-04 05:40:27,391 [INFO] Finished inserting GCF_006094455.1
+2026-03-04 05:40:27,953 [INFO] DataFrame shape before insertion: (5368, 10)
+2026-03-04 05:40:28,048 [INFO] Finished inserting GCF_040438935.1
+2026-03-04 05:40:28,610 [INFO] DataFrame shape before insertion: (5159, 10)
+2026-03-04 05:40:28,648 [INFO] Finished inserting GCF_027942095.1
+2026-03-04 05:40:28,877 [INFO] DataFrame shape before insertion: (2309, 10)
+2026-03-04 05:40:28,901 [INFO] Finished inserting GCF_030758655.1
+2026-03-04 05:40:29,437 [INFO] DataFrame shape before insertion: (4674, 10)
+2026-03-04 05:40:29,472 [INFO] Finished inserting GCF_037477885.1
+2026-03-04 05:40:29,835 [INFO] DataFrame shape before insertion: (3264, 10)
+2026-03-04 05:40:29,864 [INFO] Finished inserting GCF_018223625.1
+2026-03-04 05:40:30,400 [INFO] DataFrame shape before insertion: (5205, 10)
+2026-03-04 05:40:30,443 [INFO] Finished inserting GCA_029023745.1
+2026-03-04 05:40:31,341 [INFO] DataFrame shape before insertion: (7761, 10)
+2026-03-04 05:40:31,389 [INFO] Finished inserting GCF_011604505.1
+2026-03-04 05:40:31,988 [INFO] DataFrame shape before insertion: (5061, 10)
+2026-03-04 05:40:32,034 [INFO] Finished inserting GCF_023023665.1
+2026-03-04 05:40:32,702 [INFO] DataFrame shape before insertion: (5977, 10)
+2026-03-04 05:40:32,798 [INFO] Finished inserting GCF_042137985.1
+2026-03-04 05:40:33,098 [INFO] DataFrame shape before insertion: (3176, 10)
+2026-03-04 05:40:33,136 [INFO] Finished inserting GCA_039995105.1
+2026-03-04 05:40:33,465 [INFO] DataFrame shape before insertion: (3033, 10)
+2026-03-04 05:40:33,489 [INFO] Finished inserting GCF_045345115.1
+2026-03-04 05:40:33,754 [INFO] DataFrame shape before insertion: (2942, 10)
+2026-03-04 05:40:33,782 [INFO] Finished inserting GCA_018388605.1
+2026-03-04 05:40:34,162 [INFO] DataFrame shape before insertion: (3540, 10)
+2026-03-04 05:40:34,243 [INFO] Finished inserting GCF_030665425.1
+2026-03-04 05:40:34,531 [INFO] DataFrame shape before insertion: (2481, 10)
+2026-03-04 05:40:34,561 [INFO] Finished inserting GCF_046097315.1
+2026-03-04 05:40:34,813 [INFO] DataFrame shape before insertion: (2404, 10)
+2026-03-04 05:40:34,840 [INFO] Finished inserting GCF_003403315.2
+2026-03-04 05:40:35,057 [INFO] DataFrame shape before insertion: (2038, 10)
+2026-03-04 05:40:35,097 [INFO] Finished inserting GCF_003048685.2
+2026-03-04 05:40:36,035 [INFO] DataFrame shape before insertion: (8186, 10)
+2026-03-04 05:40:36,097 [INFO] Finished inserting GCA_024298805.1
+2026-03-04 05:40:36,557 [INFO] DataFrame shape before insertion: (4433, 10)
+2026-03-04 05:40:36,621 [INFO] Finished inserting GCA_029227815.1
+2026-03-04 05:40:37,225 [INFO] DataFrame shape before insertion: (5169, 10)
+2026-03-04 05:40:37,277 [INFO] Finished inserting GCA_030144795.1
+2026-03-04 05:40:37,719 [INFO] DataFrame shape before insertion: (3932, 10)
+2026-03-04 05:40:37,756 [INFO] Finished inserting GCF_034344045.1
+2026-03-04 05:40:38,014 [INFO] DataFrame shape before insertion: (2564, 10)
+2026-03-04 05:40:38,046 [INFO] Finished inserting GCA_040782825.1
+2026-03-04 05:40:38,530 [INFO] DataFrame shape before insertion: (4295, 10)
+2026-03-04 05:40:38,581 [INFO] Finished inserting GCF_022648965.1
+2026-03-04 05:40:39,227 [INFO] DataFrame shape before insertion: (5741, 10)
+2026-03-04 05:40:39,271 [INFO] Finished inserting GCF_005944105.1
+2026-03-04 05:40:39,477 [INFO] DataFrame shape before insertion: (1967, 10)
+2026-03-04 05:40:39,497 [INFO] Finished inserting GCF_008586845.1
+2026-03-04 05:40:39,857 [INFO] DataFrame shape before insertion: (3233, 10)
+2026-03-04 05:40:39,891 [INFO] Finished inserting GCF_014884505.1
+2026-03-04 05:40:40,311 [INFO] DataFrame shape before insertion: (3766, 10)
+2026-03-04 05:40:40,347 [INFO] Finished inserting GCF_045278885.1
+2026-03-04 05:40:40,791 [INFO] DataFrame shape before insertion: (4207, 10)
+2026-03-04 05:40:40,831 [INFO] Finished inserting GCF_030291095.1
+2026-03-04 05:40:41,550 [INFO] DataFrame shape before insertion: (6541, 10)
+2026-03-04 05:40:41,596 [INFO] Finished inserting GCF_042698915.1
+2026-03-04 05:40:42,112 [INFO] DataFrame shape before insertion: (4328, 10)
+2026-03-04 05:40:42,175 [INFO] Finished inserting GCF_045348005.1
+2026-03-04 05:40:42,462 [INFO] DataFrame shape before insertion: (2912, 10)
+2026-03-04 05:40:42,496 [INFO] Finished inserting GCF_044595635.1
+2026-03-04 05:40:42,983 [INFO] DataFrame shape before insertion: (4631, 10)
+2026-03-04 05:40:43,049 [INFO] Finished inserting GCF_044056765.1
+2026-03-04 05:40:43,441 [INFO] DataFrame shape before insertion: (3820, 10)
+2026-03-04 05:40:43,478 [INFO] Finished inserting GCF_045063725.1
+2026-03-04 05:40:43,863 [INFO] DataFrame shape before insertion: (3986, 10)
+2026-03-04 05:40:43,900 [INFO] Finished inserting GCA_038446195.1
+2026-03-04 05:40:44,229 [INFO] DataFrame shape before insertion: (3027, 10)
+2026-03-04 05:40:44,306 [INFO] Finished inserting GCF_029391915.1
+2026-03-04 05:40:44,813 [INFO] DataFrame shape before insertion: (4751, 10)
+2026-03-04 05:40:44,856 [INFO] Finished inserting GCF_014596715.2
+2026-03-04 05:40:45,344 [INFO] DataFrame shape before insertion: (4061, 10)
+2026-03-04 05:40:45,381 [INFO] Finished inserting GCF_034347425.1
+2026-03-04 05:40:45,952 [INFO] DataFrame shape before insertion: (5566, 10)
+2026-03-04 05:40:45,998 [INFO] Finished inserting GCF_041729275.1
+2026-03-04 05:40:46,378 [INFO] DataFrame shape before insertion: (3591, 10)
+2026-03-04 05:40:46,437 [INFO] Finished inserting GCF_030296595.1
+2026-03-04 05:40:46,997 [INFO] DataFrame shape before insertion: (4743, 10)
+2026-03-04 05:40:47,038 [INFO] Finished inserting GCF_023518135.1
+2026-03-04 05:40:47,455 [INFO] DataFrame shape before insertion: (3698, 10)
+2026-03-04 05:40:47,489 [INFO] Finished inserting GCF_029869925.1
+2026-03-04 05:40:47,813 [INFO] DataFrame shape before insertion: (3315, 10)
+2026-03-04 05:40:47,845 [INFO] Finished inserting GCF_024362205.1
+2026-03-04 05:40:48,407 [INFO] DataFrame shape before insertion: (4857, 10)
+2026-03-04 05:40:48,462 [INFO] Finished inserting GCF_018388785.1
+2026-03-04 05:40:48,915 [INFO] DataFrame shape before insertion: (4286, 10)
+2026-03-04 05:40:48,958 [INFO] Finished inserting GCF_036322805.1
+2026-03-04 05:40:49,358 [INFO] DataFrame shape before insertion: (3854, 10)
+2026-03-04 05:40:49,393 [INFO] Finished inserting GCF_042688525.2
+2026-03-04 05:40:49,821 [INFO] DataFrame shape before insertion: (4061, 10)
+2026-03-04 05:40:49,859 [INFO] Finished inserting GCF_030284585.1
+2026-03-04 05:40:50,421 [INFO] DataFrame shape before insertion: (5119, 10)
+2026-03-04 05:40:50,464 [INFO] Finished inserting GCF_031199375.1
+2026-03-04 05:40:50,939 [INFO] DataFrame shape before insertion: (4761, 10)
+2026-03-04 05:40:51,003 [INFO] Finished inserting GCF_003994815.1
+2026-03-04 05:40:51,550 [INFO] DataFrame shape before insertion: (4923, 10)
+2026-03-04 05:40:51,589 [INFO] Finished inserting GCF_025946545.1
+2026-03-04 05:40:52,202 [INFO] DataFrame shape before insertion: (5418, 10)
+2026-03-04 05:40:52,247 [INFO] Finished inserting GCF_037113495.1
+2026-03-04 05:40:52,522 [INFO] DataFrame shape before insertion: (2830, 10)
+2026-03-04 05:40:52,554 [INFO] Finished inserting GCA_040954445.1
+2026-03-04 05:40:53,375 [INFO] DataFrame shape before insertion: (7128, 10)
+2026-03-04 05:40:53,430 [INFO] Finished inserting GCF_009789675.1
+2026-03-04 05:40:53,828 [INFO] DataFrame shape before insertion: (3612, 10)
+2026-03-04 05:40:53,865 [INFO] Finished inserting GCF_021582875.1
+2026-03-04 05:40:54,571 [INFO] DataFrame shape before insertion: (6320, 10)
+2026-03-04 05:40:54,620 [INFO] Finished inserting GCF_036871025.1
+2026-03-04 05:40:54,854 [INFO] DataFrame shape before insertion: (2385, 10)
+2026-03-04 05:40:54,885 [INFO] Finished inserting GCF_005601135.1
+2026-03-04 05:40:55,257 [INFO] DataFrame shape before insertion: (3530, 10)
+2026-03-04 05:40:55,292 [INFO] Finished inserting GCF_021398215.1
+2026-03-04 05:40:56,154 [INFO] DataFrame shape before insertion: (7336, 10)
+2026-03-04 05:40:56,202 [INFO] Finished inserting GCF_040571325.1
+2026-03-04 05:40:56,417 [INFO] DataFrame shape before insertion: (2027, 10)
+2026-03-04 05:40:56,442 [INFO] Finished inserting GCF_041026655.1
+2026-03-04 05:40:56,859 [INFO] DataFrame shape before insertion: (3859, 10)
+2026-03-04 05:40:56,894 [INFO] Finished inserting GCF_030263895.1
+2026-03-04 05:40:57,524 [INFO] DataFrame shape before insertion: (5298, 10)
+2026-03-04 05:40:57,570 [INFO] Finished inserting GCF_035620215.1
+2026-03-04 05:40:57,988 [INFO] DataFrame shape before insertion: (3880, 10)
+2026-03-04 05:40:58,024 [INFO] Finished inserting GCF_042140105.1
+2026-03-04 05:40:58,515 [INFO] DataFrame shape before insertion: (4489, 10)
+2026-03-04 05:40:58,580 [INFO] Finished inserting GCF_038449125.1
+2026-03-04 05:40:58,782 [INFO] DataFrame shape before insertion: (1933, 10)
+2026-03-04 05:40:58,825 [INFO] Finished inserting GCF_028370195.1
+2026-03-04 05:40:59,419 [INFO] DataFrame shape before insertion: (5127, 10)
+2026-03-04 05:40:59,462 [INFO] Finished inserting GCF_035758505.1
+2026-03-04 05:40:59,693 [INFO] DataFrame shape before insertion: (2281, 10)
+2026-03-04 05:40:59,816 [INFO] Finished inserting GCA_038095535.1
+2026-03-04 05:41:00,442 [INFO] DataFrame shape before insertion: (5359, 10)
+2026-03-04 05:41:00,479 [INFO] Finished inserting GCF_029025785.1
+2026-03-04 05:41:00,967 [INFO] DataFrame shape before insertion: (4708, 10)
+2026-03-04 05:41:01,108 [INFO] Finished inserting GCF_029320955.1
+2026-03-04 05:41:01,906 [INFO] DataFrame shape before insertion: (7155, 10)
+2026-03-04 05:41:01,957 [INFO] Finished inserting GCF_003049825.1
+2026-03-04 05:41:02,398 [INFO] DataFrame shape before insertion: (3980, 10)
+2026-03-04 05:41:02,439 [INFO] Finished inserting GCF_020524035.2
+2026-03-04 05:41:02,979 [INFO] DataFrame shape before insertion: (5076, 10)
+2026-03-04 05:41:03,023 [INFO] Finished inserting GCF_027912195.1
+2026-03-04 05:41:03,593 [INFO] DataFrame shape before insertion: (5092, 10)
+2026-03-04 05:41:03,671 [INFO] Finished inserting GCF_016925575.1
+2026-03-04 05:41:04,145 [INFO] DataFrame shape before insertion: (4603, 10)
+2026-03-04 05:41:04,186 [INFO] Finished inserting GCF_000468575.2
+2026-03-04 05:41:04,592 [INFO] DataFrame shape before insertion: (3939, 10)
+2026-03-04 05:41:04,631 [INFO] Finished inserting GCF_037094785.1
+2026-03-04 05:41:05,116 [INFO] DataFrame shape before insertion: (4130, 10)
+2026-03-04 05:41:05,155 [INFO] Finished inserting GCF_023634805.2
+2026-03-04 05:41:05,616 [INFO] DataFrame shape before insertion: (4412, 10)
+2026-03-04 05:41:05,653 [INFO] Finished inserting GCA_024397275.1
+2026-03-04 05:41:06,297 [INFO] DataFrame shape before insertion: (5540, 10)
+2026-03-04 05:41:06,343 [INFO] Finished inserting GCF_040058975.1
+2026-03-04 05:41:06,731 [INFO] DataFrame shape before insertion: (3411, 10)
+2026-03-04 05:41:06,767 [INFO] Finished inserting GCF_027944555.1
+2026-03-04 05:41:07,257 [INFO] DataFrame shape before insertion: (4367, 10)
+2026-03-04 05:41:07,300 [INFO] Finished inserting GCF_008364625.2
+2026-03-04 05:41:07,817 [INFO] DataFrame shape before insertion: (4968, 10)
+2026-03-04 05:41:07,900 [INFO] Finished inserting GCF_021650705.1
+2026-03-04 05:41:08,162 [INFO] DataFrame shape before insertion: (2179, 10)
+2026-03-04 05:41:08,191 [INFO] Finished inserting GCF_028622815.1
+2026-03-04 05:41:08,699 [INFO] DataFrame shape before insertion: (4531, 10)
+2026-03-04 05:41:08,734 [INFO] Finished inserting GCF_026723725.1
+2026-03-04 05:41:09,612 [INFO] DataFrame shape before insertion: (7291, 10)
+2026-03-04 05:41:09,673 [INFO] Finished inserting GCF_038452255.1
+2026-03-04 05:41:10,813 [INFO] DataFrame shape before insertion: (9953, 10)
+2026-03-04 05:41:10,877 [INFO] Finished inserting GCF_040961855.1
+2026-03-04 05:41:11,261 [INFO] DataFrame shape before insertion: (3833, 10)
+2026-03-04 05:41:11,299 [INFO] Finished inserting GCF_044597075.1
+2026-03-04 05:41:11,451 [INFO] DataFrame shape before insertion: (1427, 10)
+2026-03-04 05:41:11,476 [INFO] Finished inserting GCF_030060925.1
+2026-03-04 05:41:11,942 [INFO] DataFrame shape before insertion: (4481, 10)
+2026-03-04 05:41:11,985 [INFO] Finished inserting GCF_045715775.1
+2026-03-04 05:41:12,316 [INFO] DataFrame shape before insertion: (3069, 10)
+2026-03-04 05:41:12,364 [INFO] Finished inserting GCF_029952405.1
+2026-03-04 05:41:12,655 [INFO] DataFrame shape before insertion: (2976, 10)
+2026-03-04 05:41:12,710 [INFO] Finished inserting GCF_002901165.3
+2026-03-04 05:41:13,218 [INFO] DataFrame shape before insertion: (4838, 10)
+2026-03-04 05:41:13,261 [INFO] Finished inserting GCA_033977085.1
+2026-03-04 05:41:13,706 [INFO] DataFrame shape before insertion: (4069, 10)
+2026-03-04 05:41:13,852 [INFO] Finished inserting GCF_044872955.1
+2026-03-04 05:41:14,661 [INFO] DataFrame shape before insertion: (6685, 10)
+2026-03-04 05:41:14,713 [INFO] Finished inserting GCF_030292205.1
+2026-03-04 05:41:15,165 [INFO] DataFrame shape before insertion: (4044, 10)
+2026-03-04 05:41:15,203 [INFO] Finished inserting GCF_009740285.1
+2026-03-04 05:41:16,296 [INFO] DataFrame shape before insertion: (9342, 10)
+2026-03-04 05:41:16,375 [INFO] Finished inserting GCF_041080655.1
+2026-03-04 05:41:16,836 [INFO] DataFrame shape before insertion: (4640, 10)
+2026-03-04 05:41:16,876 [INFO] Finished inserting GCA_011302515.1
+2026-03-04 05:41:17,074 [INFO] DataFrame shape before insertion: (2113, 10)
+2026-03-04 05:41:17,146 [INFO] Finished inserting GCA_014467095.1
+2026-03-04 05:41:17,505 [INFO] DataFrame shape before insertion: (3391, 10)
+2026-03-04 05:41:17,543 [INFO] Finished inserting GCF_030866705.2
+2026-03-04 05:41:17,958 [INFO] DataFrame shape before insertion: (3897, 10)
+2026-03-04 05:41:17,994 [INFO] Finished inserting GCF_028201555.1
+2026-03-04 05:41:18,548 [INFO] DataFrame shape before insertion: (4715, 10)
+2026-03-04 05:41:18,617 [INFO] Finished inserting GCF_025725745.1
+2026-03-04 05:41:19,026 [INFO] DataFrame shape before insertion: (3747, 10)
+2026-03-04 05:41:19,055 [INFO] Finished inserting GCA_037236975.1
+2026-03-04 05:41:19,785 [INFO] DataFrame shape before insertion: (6363, 10)
+2026-03-04 05:41:19,851 [INFO] Finished inserting GCF_045037975.1
+2026-03-04 05:41:20,516 [INFO] DataFrame shape before insertion: (5753, 10)
+2026-03-04 05:41:20,582 [INFO] Finished inserting GCF_030913705.1
+2026-03-04 05:41:20,985 [INFO] DataFrame shape before insertion: (3696, 10)
+2026-03-04 05:41:21,021 [INFO] Finished inserting GCA_021555105.2
+2026-03-04 05:41:21,235 [INFO] DataFrame shape before insertion: (1907, 10)
+2026-03-04 05:41:21,261 [INFO] Finished inserting GCF_009676705.1
+2026-03-04 05:41:21,971 [INFO] DataFrame shape before insertion: (6246, 10)
+2026-03-04 05:41:22,021 [INFO] Finished inserting GCF_032620035.1
+2026-03-04 05:41:22,321 [INFO] DataFrame shape before insertion: (3043, 10)
+2026-03-04 05:41:22,509 [INFO] Finished inserting GCF_040436395.1
+2026-03-04 05:41:23,721 [INFO] DataFrame shape before insertion: (10305, 10)
+2026-03-04 05:41:23,798 [INFO] Finished inserting GCF_030285665.1
+2026-03-04 05:41:24,422 [INFO] DataFrame shape before insertion: (5571, 10)
+2026-03-04 05:41:24,465 [INFO] Finished inserting GCF_035918275.1
+2026-03-04 05:41:24,904 [INFO] DataFrame shape before insertion: (4088, 10)
+2026-03-04 05:41:24,942 [INFO] Finished inserting GCF_030582015.1
+2026-03-04 05:41:25,733 [INFO] DataFrame shape before insertion: (6463, 10)
+2026-03-04 05:41:25,782 [INFO] Finished inserting GCF_044336365.1
+2026-03-04 05:41:26,100 [INFO] DataFrame shape before insertion: (3271, 10)
+2026-03-04 05:41:26,144 [INFO] Finished inserting GCF_046115515.1
+2026-03-04 05:41:26,736 [INFO] DataFrame shape before insertion: (5146, 10)
+2026-03-04 05:41:26,780 [INFO] Finished inserting GCF_027366555.1
+2026-03-04 05:41:27,231 [INFO] DataFrame shape before insertion: (4001, 10)
+2026-03-04 05:41:27,312 [INFO] Finished inserting GCF_026183365.1
+2026-03-04 05:41:27,770 [INFO] DataFrame shape before insertion: (4308, 10)
+2026-03-04 05:41:27,810 [INFO] Finished inserting GCF_030915425.1
+2026-03-04 05:41:28,387 [INFO] DataFrame shape before insertion: (4983, 10)
+2026-03-04 05:41:28,431 [INFO] Finished inserting GCF_030064165.1
+2026-03-04 05:41:29,074 [INFO] DataFrame shape before insertion: (5628, 10)
+2026-03-04 05:41:29,119 [INFO] Finished inserting GCF_005116655.2
+2026-03-04 05:41:29,859 [INFO] DataFrame shape before insertion: (6533, 10)
+2026-03-04 05:41:29,954 [INFO] Finished inserting GCF_024721175.1
+2026-03-04 05:41:30,451 [INFO] DataFrame shape before insertion: (4768, 10)
+2026-03-04 05:41:30,491 [INFO] Finished inserting GCF_042699465.1
+2026-03-04 05:41:31,010 [INFO] DataFrame shape before insertion: (4573, 10)
+2026-03-04 05:41:31,052 [INFO] Finished inserting GCF_030062435.1
+2026-03-04 05:41:31,522 [INFO] DataFrame shape before insertion: (4374, 10)
+2026-03-04 05:41:31,561 [INFO] Finished inserting GCF_025765795.1
+2026-03-04 05:41:32,441 [INFO] DataFrame shape before insertion: (7272, 10)
+2026-03-04 05:41:32,496 [INFO] Finished inserting GCF_022354485.1
+2026-03-04 05:41:32,977 [INFO] DataFrame shape before insertion: (4571, 10)
+2026-03-04 05:41:33,018 [INFO] Finished inserting GCF_042434905.1
+2026-03-04 05:41:33,291 [INFO] DataFrame shape before insertion: (2871, 10)
+2026-03-04 05:41:33,346 [INFO] Finished inserting GCF_046112175.1
+2026-03-04 05:41:33,640 [INFO] DataFrame shape before insertion: (3027, 10)
+2026-03-04 05:41:33,671 [INFO] Finished inserting GCF_044596715.1
+2026-03-04 05:41:34,125 [INFO] DataFrame shape before insertion: (4136, 10)
+2026-03-04 05:41:34,174 [INFO] Finished inserting GCF_030166395.1
+2026-03-04 05:41:34,627 [INFO] DataFrame shape before insertion: (4369, 10)
+2026-03-04 05:41:34,690 [INFO] Finished inserting GCF_029689965.1
+2026-03-04 05:41:35,195 [INFO] DataFrame shape before insertion: (4776, 10)
+2026-03-04 05:41:35,235 [INFO] Finished inserting GCF_021166035.1
+2026-03-04 05:41:35,897 [INFO] DataFrame shape before insertion: (5971, 10)
+2026-03-04 05:41:36,068 [INFO] Finished inserting GCA_030020925.1
+2026-03-04 05:41:36,703 [INFO] DataFrame shape before insertion: (5390, 10)
+2026-03-04 05:41:36,747 [INFO] Finished inserting GCF_041319905.1
+2026-03-04 05:41:37,445 [INFO] DataFrame shape before insertion: (6401, 10)
+2026-03-04 05:41:37,496 [INFO] Finished inserting GCF_022700995.1
+2026-03-04 05:41:38,436 [INFO] DataFrame shape before insertion: (8044, 10)
+2026-03-04 05:41:38,563 [INFO] Finished inserting GCF_041080665.1
+2026-03-04 05:41:39,257 [INFO] DataFrame shape before insertion: (6329, 10)
+2026-03-04 05:41:39,307 [INFO] Finished inserting GCA_030179875.1
+2026-03-04 05:41:39,959 [INFO] DataFrame shape before insertion: (5643, 10)
+2026-03-04 05:41:40,042 [INFO] Finished inserting GCF_019295365.2
+2026-03-04 05:41:40,253 [INFO] DataFrame shape before insertion: (2127, 10)
+2026-03-04 05:41:40,282 [INFO] Finished inserting GCF_014596425.2
+2026-03-04 05:41:40,574 [INFO] DataFrame shape before insertion: (2583, 10)
+2026-03-04 05:41:40,604 [INFO] Finished inserting GCF_964065465.1
+2026-03-04 05:41:40,662 [INFO] DataFrame shape before insertion: (653, 10)
+2026-03-04 05:41:40,704 [INFO] Finished inserting GCA_015256915.3
+2026-03-04 05:41:41,368 [INFO] DataFrame shape before insertion: (6307, 10)
+2026-03-04 05:41:41,416 [INFO] Finished inserting GCA_024703855.1
+2026-03-04 05:41:42,076 [INFO] DataFrame shape before insertion: (5941, 10)
+2026-03-04 05:41:42,122 [INFO] Finished inserting GCF_044813085.1
+2026-03-04 05:41:42,498 [INFO] DataFrame shape before insertion: (3428, 10)
+2026-03-04 05:41:42,535 [INFO] Finished inserting GCF_019357415.1
+2026-03-04 05:41:43,402 [INFO] DataFrame shape before insertion: (7099, 10)
+2026-03-04 05:41:43,455 [INFO] Finished inserting GCF_009789655.1
+2026-03-04 05:41:43,924 [INFO] DataFrame shape before insertion: (4228, 10)
+2026-03-04 05:41:43,964 [INFO] Finished inserting GCF_042188925.1
+2026-03-04 05:41:44,558 [INFO] DataFrame shape before insertion: (4989, 10)
+2026-03-04 05:41:44,593 [INFO] Finished inserting GCF_016653695.1
+2026-03-04 05:41:45,011 [INFO] DataFrame shape before insertion: (3911, 10)
+2026-03-04 05:41:45,064 [INFO] Finished inserting GCF_003234085.2
+2026-03-04 05:41:45,263 [INFO] DataFrame shape before insertion: (2044, 10)
+2026-03-04 05:41:45,308 [INFO] Finished inserting GCA_032695835.1
+2026-03-04 05:41:45,664 [INFO] DataFrame shape before insertion: (3521, 10)
+2026-03-04 05:41:45,711 [INFO] Finished inserting GCA_025232375.1
+2026-03-04 05:41:46,330 [INFO] DataFrame shape before insertion: (5158, 10)
+2026-03-04 05:41:46,372 [INFO] Finished inserting GCF_014596895.2
+2026-03-04 05:41:46,775 [INFO] DataFrame shape before insertion: (3814, 10)
+2026-03-04 05:41:46,809 [INFO] Finished inserting GCA_016699575.1
+2026-03-04 05:41:47,274 [INFO] DataFrame shape before insertion: (4147, 10)
+2026-03-04 05:41:47,312 [INFO] Finished inserting GCF_040276445.1
+2026-03-04 05:41:47,781 [INFO] DataFrame shape before insertion: (4293, 10)
+2026-03-04 05:41:47,820 [INFO] Finished inserting GCF_008329985.2
+2026-03-04 05:41:48,725 [INFO] DataFrame shape before insertion: (7724, 10)
+2026-03-04 05:41:48,779 [INFO] Finished inserting GCF_042466665.1
+2026-03-04 05:41:49,176 [INFO] DataFrame shape before insertion: (3755, 10)
+2026-03-04 05:41:49,214 [INFO] Finished inserting GCF_044597005.1
+2026-03-04 05:41:49,516 [INFO] DataFrame shape before insertion: (3259, 10)
+2026-03-04 05:41:49,551 [INFO] Finished inserting GCF_018399015.1
+2026-03-04 05:41:49,831 [INFO] DataFrame shape before insertion: (2370, 10)
+2026-03-04 05:41:49,914 [INFO] Finished inserting GCF_022870965.1
+2026-03-04 05:41:50,241 [INFO] DataFrame shape before insertion: (3529, 10)
+2026-03-04 05:41:50,271 [INFO] Finished inserting GCF_044595335.1
+2026-03-04 05:41:51,093 [INFO] DataFrame shape before insertion: (7397, 10)
+2026-03-04 05:41:51,146 [INFO] Finished inserting GCA_041920615.1
+2026-03-04 05:41:51,555 [INFO] DataFrame shape before insertion: (4105, 10)
+2026-03-04 05:41:51,591 [INFO] Finished inserting GCA_023612635.1
+2026-03-04 05:41:52,152 [INFO] DataFrame shape before insertion: (4801, 10)
+2026-03-04 05:41:52,192 [INFO] Finished inserting GCF_030915505.1
+2026-03-04 05:41:52,478 [INFO] DataFrame shape before insertion: (2839, 10)
+2026-03-04 05:41:52,511 [INFO] Finished inserting GCF_029625335.1
+2026-03-04 05:41:53,097 [INFO] DataFrame shape before insertion: (5068, 10)
+2026-03-04 05:41:53,141 [INFO] Finished inserting GCF_042850945.1
+2026-03-04 05:41:53,439 [INFO] DataFrame shape before insertion: (2917, 10)
+2026-03-04 05:41:53,470 [INFO] Finished inserting GCF_017498625.1
+2026-03-04 05:41:54,161 [INFO] DataFrame shape before insertion: (6245, 10)
+2026-03-04 05:41:54,260 [INFO] Finished inserting GCF_030169265.1
+2026-03-04 05:41:55,550 [INFO] DataFrame shape before insertion: (10339, 10)
+2026-03-04 05:41:55,616 [INFO] Finished inserting GCF_041080625.1
+2026-03-04 05:41:55,747 [INFO] DataFrame shape before insertion: (1499, 10)
+2026-03-04 05:41:55,772 [INFO] Finished inserting GCF_037482165.1
+2026-03-04 05:41:56,189 [INFO] DataFrame shape before insertion: (3648, 10)
+2026-03-04 05:41:56,241 [INFO] Finished inserting GCF_020991125.1
+2026-03-04 05:41:56,971 [INFO] DataFrame shape before insertion: (6328, 10)
+2026-03-04 05:41:57,020 [INFO] Finished inserting GCF_006440675.2
+2026-03-04 05:41:57,542 [INFO] DataFrame shape before insertion: (4927, 10)
+2026-03-04 05:41:57,685 [INFO] Finished inserting GCF_023078355.1
+2026-03-04 05:41:58,043 [INFO] DataFrame shape before insertion: (3381, 10)
+2026-03-04 05:41:58,078 [INFO] Finished inserting GCF_030388305.1
+2026-03-04 05:41:58,782 [INFO] DataFrame shape before insertion: (6484, 10)
+2026-03-04 05:41:58,852 [INFO] Finished inserting GCF_030845255.1
+2026-03-04 05:41:59,337 [INFO] DataFrame shape before insertion: (4411, 10)
+2026-03-04 05:41:59,377 [INFO] Finished inserting GCF_032921865.1
+2026-03-04 05:41:59,811 [INFO] DataFrame shape before insertion: (4081, 10)
+2026-03-04 05:41:59,848 [INFO] Finished inserting GCF_030291075.1
+2026-03-04 05:42:00,515 [INFO] DataFrame shape before insertion: (5813, 10)
+2026-03-04 05:42:00,560 [INFO] Finished inserting GCF_026898155.1
+2026-03-04 05:42:01,159 [INFO] DataFrame shape before insertion: (5093, 10)
+2026-03-04 05:42:01,205 [INFO] Finished inserting GCF_019339365.1
+2026-03-04 05:42:01,741 [INFO] DataFrame shape before insertion: (4926, 10)
+2026-03-04 05:42:01,781 [INFO] Finished inserting GCF_022558925.1
+2026-03-04 05:42:02,383 [INFO] DataFrame shape before insertion: (5373, 10)
+2026-03-04 05:42:02,428 [INFO] Finished inserting GCF_042696965.1
+2026-03-04 05:42:02,896 [INFO] DataFrame shape before insertion: (4550, 10)
+2026-03-04 05:42:02,939 [INFO] Finished inserting GCF_029866905.1
+2026-03-04 05:42:03,422 [INFO] DataFrame shape before insertion: (4146, 10)
+2026-03-04 05:42:03,464 [INFO] Finished inserting GCF_031202855.1
+2026-03-04 05:42:03,918 [INFO] DataFrame shape before insertion: (4098, 10)
+2026-03-04 05:42:03,957 [INFO] Finished inserting GCF_031582905.1
+2026-03-04 05:42:04,085 [INFO] DataFrame shape before insertion: (1429, 10)
+2026-03-04 05:42:04,120 [INFO] Finished inserting GCF_021378375.1
+2026-03-04 05:42:04,720 [INFO] DataFrame shape before insertion: (5270, 10)
+2026-03-04 05:42:04,762 [INFO] Finished inserting GCF_041319955.1
+2026-03-04 05:42:04,991 [INFO] DataFrame shape before insertion: (2556, 10)
+2026-03-04 05:42:05,022 [INFO] Finished inserting GCA_016700335.1
+2026-03-04 05:42:05,610 [INFO] DataFrame shape before insertion: (5438, 10)
+2026-03-04 05:42:05,654 [INFO] Finished inserting GCF_024759205.1
+2026-03-04 05:42:06,226 [INFO] DataFrame shape before insertion: (5308, 10)
+2026-03-04 05:42:06,271 [INFO] Finished inserting GCA_030759595.1
+2026-03-04 05:42:06,654 [INFO] DataFrame shape before insertion: (3586, 10)
+2026-03-04 05:42:06,687 [INFO] Finished inserting GCF_044596045.1
+2026-03-04 05:42:07,393 [INFO] DataFrame shape before insertion: (6420, 10)
+2026-03-04 05:42:07,441 [INFO] Finished inserting GCF_019581175.1
+2026-03-04 05:42:07,509 [INFO] DataFrame shape before insertion: (776, 10)
+2026-03-04 05:42:07,553 [INFO] Finished inserting GCA_045401115.1
+2026-03-04 05:42:07,783 [INFO] DataFrame shape before insertion: (2269, 10)
+2026-03-04 05:42:07,812 [INFO] Finished inserting GCF_045801155.1
+2026-03-04 05:42:08,544 [INFO] DataFrame shape before insertion: (5947, 10)
+2026-03-04 05:42:08,598 [INFO] Finished inserting GCF_025643095.1
+2026-03-04 05:42:08,921 [INFO] DataFrame shape before insertion: (3315, 10)
+2026-03-04 05:42:08,954 [INFO] Finished inserting GCF_004353525.1
+2026-03-04 05:42:09,515 [INFO] DataFrame shape before insertion: (4464, 10)
+2026-03-04 05:42:09,555 [INFO] Finished inserting GCF_025133195.1
+2026-03-04 05:42:10,110 [INFO] DataFrame shape before insertion: (5207, 10)
+2026-03-04 05:42:10,164 [INFO] Finished inserting GCF_029024985.1
+2026-03-04 05:42:10,741 [INFO] DataFrame shape before insertion: (5099, 10)
+2026-03-04 05:42:10,829 [INFO] Finished inserting GCF_034353045.1
+2026-03-04 05:42:11,419 [INFO] DataFrame shape before insertion: (4931, 10)
+2026-03-04 05:42:11,462 [INFO] Finished inserting GCF_019339445.1
+2026-03-04 05:42:11,882 [INFO] DataFrame shape before insertion: (3732, 10)
+2026-03-04 05:42:11,918 [INFO] Finished inserting GCF_032191775.1
+2026-03-04 05:42:12,162 [INFO] DataFrame shape before insertion: (2240, 10)
+2026-03-04 05:42:12,191 [INFO] Finished inserting GCF_021957085.1
+2026-03-04 05:42:12,439 [INFO] DataFrame shape before insertion: (2406, 10)
+2026-03-04 05:42:12,468 [INFO] Finished inserting GCF_041199995.1
+2026-03-04 05:42:12,700 [INFO] DataFrame shape before insertion: (2363, 10)
+2026-03-04 05:42:12,727 [INFO] Finished inserting GCF_029625275.1
+2026-03-04 05:42:13,029 [INFO] DataFrame shape before insertion: (2693, 10)
+2026-03-04 05:42:13,072 [INFO] Finished inserting GCF_022936085.1
+2026-03-04 05:42:13,740 [INFO] DataFrame shape before insertion: (5703, 10)
+2026-03-04 05:42:13,779 [INFO] Finished inserting GCF_023823875.1
+2026-03-04 05:42:14,502 [INFO] DataFrame shape before insertion: (6454, 10)
+2026-03-04 05:42:14,614 [INFO] Finished inserting GCF_013393945.1
+2026-03-04 05:42:15,088 [INFO] DataFrame shape before insertion: (4514, 10)
+2026-03-04 05:42:15,170 [INFO] Finished inserting GCF_030388325.1
+2026-03-04 05:42:15,634 [INFO] DataFrame shape before insertion: (4503, 10)
+2026-03-04 05:42:15,697 [INFO] Finished inserting GCF_034377145.1
+2026-03-04 05:42:16,207 [INFO] DataFrame shape before insertion: (4677, 10)
+2026-03-04 05:42:16,248 [INFO] Finished inserting GCF_025452235.1
+2026-03-04 05:42:16,517 [INFO] DataFrame shape before insertion: (2705, 10)
+2026-03-04 05:42:16,548 [INFO] Finished inserting GCF_026625065.1
+2026-03-04 05:42:16,938 [INFO] DataFrame shape before insertion: (3633, 10)
+2026-03-04 05:42:16,971 [INFO] Finished inserting GCF_021513195.1
+2026-03-04 05:42:17,647 [INFO] DataFrame shape before insertion: (6038, 10)
+2026-03-04 05:42:17,695 [INFO] Finished inserting GCF_013347965.1
+2026-03-04 05:42:18,102 [INFO] DataFrame shape before insertion: (4060, 10)
+2026-03-04 05:42:18,139 [INFO] Finished inserting GCF_025244705.1
+2026-03-04 05:42:18,697 [INFO] DataFrame shape before insertion: (4929, 10)
+2026-03-04 05:42:18,739 [INFO] Finished inserting GCF_039620435.1
+2026-03-04 05:42:19,860 [INFO] DataFrame shape before insertion: (8903, 10)
+2026-03-04 05:42:19,968 [INFO] Finished inserting GCF_027625935.1
+2026-03-04 05:42:20,285 [INFO] DataFrame shape before insertion: (3322, 10)
+2026-03-04 05:42:20,318 [INFO] Finished inserting GCF_018398975.1
+2026-03-04 05:42:21,159 [INFO] DataFrame shape before insertion: (6741, 10)
+2026-03-04 05:42:21,206 [INFO] Finished inserting GCF_004919535.4
+2026-03-04 05:42:21,466 [INFO] DataFrame shape before insertion: (2451, 10)
+2026-03-04 05:42:21,495 [INFO] Finished inserting GCF_033564055.1
+2026-03-04 05:42:22,047 [INFO] DataFrame shape before insertion: (5014, 10)
+2026-03-04 05:42:22,094 [INFO] Finished inserting GCA_040822005.1
+2026-03-04 05:42:22,624 [INFO] DataFrame shape before insertion: (4397, 10)
+2026-03-04 05:42:22,668 [INFO] Finished inserting GCF_033878955.1
+2026-03-04 05:42:22,998 [INFO] DataFrame shape before insertion: (3291, 10)
+2026-03-04 05:42:23,043 [INFO] Finished inserting GCF_037055305.1
+2026-03-04 05:42:23,435 [INFO] DataFrame shape before insertion: (3850, 10)
+2026-03-04 05:42:23,576 [INFO] Finished inserting GCF_029639405.1
+2026-03-04 05:42:24,472 [INFO] DataFrame shape before insertion: (7825, 10)
+2026-03-04 05:42:24,577 [INFO] Finished inserting GCF_024442335.1
+2026-03-04 05:42:25,169 [INFO] DataFrame shape before insertion: (5036, 10)
+2026-03-04 05:42:25,210 [INFO] Finished inserting GCF_019334425.1
+2026-03-04 05:42:25,949 [INFO] DataFrame shape before insertion: (6425, 10)
+2026-03-04 05:42:26,000 [INFO] Finished inserting GCF_041729625.1
+2026-03-04 05:42:26,952 [INFO] DataFrame shape before insertion: (8276, 10)
+2026-03-04 05:42:27,018 [INFO] Finished inserting GCF_032612255.1
+2026-03-04 05:42:27,429 [INFO] DataFrame shape before insertion: (3928, 10)
+2026-03-04 05:42:27,466 [INFO] Finished inserting GCF_025231525.1
+2026-03-04 05:42:27,985 [INFO] DataFrame shape before insertion: (4373, 10)
+2026-03-04 05:42:28,027 [INFO] Finished inserting GCF_032773895.1
+2026-03-04 05:42:28,454 [INFO] DataFrame shape before insertion: (3777, 10)
+2026-03-04 05:42:28,485 [INFO] Finished inserting GCF_005144965.1
+2026-03-04 05:42:29,602 [INFO] DataFrame shape before insertion: (9753, 10)
+2026-03-04 05:42:29,668 [INFO] Finished inserting GCF_041346945.1
+2026-03-04 05:42:30,115 [INFO] DataFrame shape before insertion: (4564, 10)
+2026-03-04 05:42:30,150 [INFO] Finished inserting GCA_016025055.1
+2026-03-04 05:42:30,904 [INFO] DataFrame shape before insertion: (6191, 10)
+2026-03-04 05:42:30,948 [INFO] Finished inserting GCF_009362995.1
+2026-03-04 05:42:31,975 [INFO] DataFrame shape before insertion: (8711, 10)
+2026-03-04 05:42:32,038 [INFO] Finished inserting GCF_022807935.1
+2026-03-04 05:42:32,699 [INFO] DataFrame shape before insertion: (5624, 10)
+2026-03-04 05:42:32,745 [INFO] Finished inserting GCF_022492935.1
+2026-03-04 05:42:32,773 [INFO] DataFrame shape before insertion: (239, 10)
+2026-03-04 05:42:32,790 [INFO] Finished inserting GCF_013463375.1
+2026-03-04 05:42:33,065 [INFO] DataFrame shape before insertion: (2749, 10)
+2026-03-04 05:42:33,098 [INFO] Finished inserting GCF_009799805.1
+2026-03-04 05:42:33,526 [INFO] DataFrame shape before insertion: (4038, 10)
+2026-03-04 05:42:33,565 [INFO] Finished inserting GCF_031583595.1
+2026-03-04 05:42:33,905 [INFO] DataFrame shape before insertion: (3079, 10)
+2026-03-04 05:42:33,938 [INFO] Finished inserting GCF_011065405.1
+2026-03-04 05:42:34,385 [INFO] DataFrame shape before insertion: (4027, 10)
+2026-03-04 05:42:34,446 [INFO] Finished inserting GCF_014303955.1
+2026-03-04 05:42:34,736 [INFO] DataFrame shape before insertion: (2860, 10)
+2026-03-04 05:42:34,767 [INFO] Finished inserting GCF_029011275.1
+2026-03-04 05:42:35,190 [INFO] DataFrame shape before insertion: (4055, 10)
+2026-03-04 05:42:35,248 [INFO] Finished inserting GCF_033571935.1
+2026-03-04 05:42:35,745 [INFO] DataFrame shape before insertion: (4500, 10)
+2026-03-04 05:42:35,806 [INFO] Finished inserting GCF_027570015.1
+2026-03-04 05:42:36,306 [INFO] DataFrame shape before insertion: (4571, 10)
+2026-03-04 05:42:36,345 [INFO] Finished inserting GCF_003627015.2
+Tables in the database: [('protein_cluster',), ('metadata',), ('gff',)]
+2026-03-04 05:42:37,889 [INFO] SLURM_ARRAY_TASK_ID: 4
+2026-03-04 05:42:37,889 [INFO] SLURM_ARRAY_TASK_COUNT: 5
+2026-03-04 05:42:48,213 [INFO] SLURM_ARRAY_TASK_ID: 4
+2026-03-04 05:42:48,213 [INFO] SLURM_ARRAY_TASK_COUNT: 5
