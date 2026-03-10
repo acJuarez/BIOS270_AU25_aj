@@ -165,6 +165,8 @@ chunk_size = 1000
 chunks = (chunk_size, n_features)
 ```
 
+The chunk size is still 1000 but the shape needs to match the number of protein features otherwise data could be lost 
+
 ---
 
 ### 5. Practice – Combining SQL and HDF5
